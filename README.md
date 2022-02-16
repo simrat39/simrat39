@@ -3,7 +3,6 @@ Student.
 My Stuff:
 
 * **Flutter**
-  * [AnimeTwistFlut: Anime Viewing App](https://github.com/simrat39/AnimeTwistFlut)
   * [FluttyWalls: Wallpaper App](https://github.com/simrat39/FluttyWalls)
   * [libadwaita: GTK widgets ported to flutter](https://github.com/gtk-flutter/libadwaita)
   * [gradient_ui_widgets](https://github.com/simrat39/gradient_ui_widgets)
