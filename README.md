@@ -3,6 +3,7 @@ Student.
 My Stuff:
 
 * **Flutter**
+  * [StudyBuddy: Study App (Hackathon winner)](https://github.com/simrat39/StudyBuddy)  
   * [FluttyWalls: Wallpaper App](https://github.com/simrat39/FluttyWalls)
   * [libadwaita: GTK widgets ported to flutter](https://github.com/gtk-flutter/libadwaita)
   * [gradient_ui_widgets](https://github.com/simrat39/gradient_ui_widgets)
